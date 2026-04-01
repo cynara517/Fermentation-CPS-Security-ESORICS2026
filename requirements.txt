@@ -1,6 +1,6 @@
 setuptools
 streamlit
 pandas
-crewai>=0.28.0,<0.30.0
+crewai==0.28.8
 litellm==1.40.8
 pydantic>=2.4.2,<3.0.0
